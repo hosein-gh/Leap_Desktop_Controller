@@ -6,11 +6,18 @@ You Can Find More Details and How it Works on my [Youtube](https://www.youtube.c
 
 ## Motions :
 
-* UP : Maximize Current Window
-* Down : Minimize Current Window
-* Right : Resize Current Window to Half Right of Display
-* Left : Resize Current Window to Half Left of Display
+* UP with more than 2 fingers : Maximize Current Window
+* Down with more than 2 fingers : Minimize Current Window
+* Right with more than 2 fingers : Resize Current Window to Half Right of Display
+* Left with more than 2 fingers : Resize Current Window to Half Left of Display
+
+* UP with 1 or 2 fingers : Simulate UP Arrow Button
+* Down with 1 or 2 fingers : Simulate DOWN Arrow Button
+* Right with 1 or 2 fingers : Simulate RIGHT Arrow Button
+* Left with 1 or 2 fingers : Simulate LEFT Arrow Button
+
 * Tap : Simulate Enter(Return) Button
+
 * Finger Clockwise Rotate : Increase Sound Volume
 * Finger Counterclockwise Rotate : Decrease Sound Volume
 
